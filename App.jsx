@@ -420,7 +420,7 @@ export default function Portfolio() {
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
             {[
-              { title: "Presenter", org: "IEEE CCWC", year: "Jan 2026" },
+              { title: "Research Paper Presenter", org: "IEEE CCWC", year: "Jan 2026" },
               { title: "Honorable Mention", org: "Stanford Model United Nations Conference", year: "Nov 2025" },
               { title: "Honorable Mention", org: "Gunn Model United Nations Conference", year: "Oct 2025" },
               { title: "Research Award", org: "Foothill Model United Nations Conference", year: "Apr 2025" },
